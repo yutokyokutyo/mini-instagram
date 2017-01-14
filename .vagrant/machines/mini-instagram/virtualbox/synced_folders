@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mini-instagram":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/mini-instagram","hostpath":"/Users/yuto/Project/mini-instagram","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/yuto/Project/mini-instagram","disabled":false,"__vagrantfile":true}}}
